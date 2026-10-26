@@ -1,0 +1,47 @@
+[
+  {
+    "component": "hyperdart-app",
+    "componentPrimaryName": "Tourism Explorer",
+    "templateID": 804401,
+    "entities": [
+      {
+        "word": "Paris",
+        "wgID": 104402,
+        "wgName": "LOCATION",
+        "templateID": 804401,
+        "entityInfo": {
+          "city": "Paris",
+          "country": "France",
+          "countryCode": "FR",
+          "timezone": "Europe/Paris",
+          "geo": {
+            "lat": 48.8566,
+            "long": 2.3522
+          }
+        },
+        "componentName": "hyperdart-app",
+        "entityType": "LOCATION",
+        "sourceID": "Paris",
+        "description": "City in France",
+        "priority": 10,
+        "isEnabled": 1,
+        "keywordRequired": 0,
+        "primaryText": "Paris",
+        "relevanceScore": 99,
+        "sourceValue": 0,
+        "index": 0,
+        "primaryID": "Paris"
+      }
+    ],
+    "query": "things to do in Paris",
+    "componentEnabled": true,
+    "keyword": [
+      "things to do"
+    ],
+    "disambiguationType": 1,
+    "time": "2026-10-26T12:00:00.000Z",
+    "quickView": 3,
+    "queryRegex": "things to do in HD_LOCATION",
+    "componentType": "internal"
+  }
+]
