@@ -1,6 +1,6 @@
-import pkg from './package.json' with {type:'json'}
+import pkg from './package.json' with {type: 'json'}
 
-export default  {
+export default {
 	// import name from package.json
 	name: pkg.name,
 	triggers: {
@@ -55,11 +55,11 @@ export default  {
 		// "sidebar" / "mainline" / "ribbon" / "fullscreen"
 	},
 	permissions: {
-		
+
 	},
 	info: {
 		// key-values added here will be added to the compInfo section of searchData
 	},
-	github: "",
-	demovideo: ""
+	github: "https://github.com/TejasBembade",
+	demovideo: "https://youtu.be/5InYmNZecLY"
 }
