@@ -56,7 +56,7 @@
 The backend utilizes Cloudflare Wrangler with `.dev.vars` for local secrets.
 In `src/backend/.dev.vars`:
 ```bash
-GEOAPIFY_API_KEY=02d386718e694dc28d07ec3e477ff273
+
 ENVIRONMENT=development
 ```
 *(Note: `.dev.vars` is git-ignored to prevent credential leaks).*
